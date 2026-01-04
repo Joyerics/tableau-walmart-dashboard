@@ -71,7 +71,9 @@ Data cleaning and preparation performed prior to visualization
 Author
 
 Chinenye Onyedika
+
 Data Analyst
+
 Tableau & Power BI Specialist
 
 Windsor, Ontario, Canada
