@@ -72,8 +72,10 @@ Author
 
 Chinenye Onyedika
 Data Analyst
-Data Analyst | Tableau & Power BI Specialist
+Tableau & Power BI Specialist
+
 Windsor, Ontario, Canada
+
 GitHub: https://github.com/Joyerics
 
 LinkedIn: https://linkedin.com/in/chinenye-onyedika-889087232
